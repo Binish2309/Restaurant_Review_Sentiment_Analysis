@@ -214,7 +214,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 **Binish Mohammad Asif Gandhi**  
 📧 gandhibinish@gmail.com  
-🔗 [LinkedIn](linkedin.com/in/binish-gandhi-42b54722b) · [GitHub](github.com/Binish2309/Restaurant_Review_Sentiment_Analysis)
+🔗 [LinkedIn](https://linkedin.com/in/binish-gandhi-42b54722b) · [GitHub](https://github.com/Binish2309/Restaurant_Review_Sentiment_Analysis)
 
 ---
 
