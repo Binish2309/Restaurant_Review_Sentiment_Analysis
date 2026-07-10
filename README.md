@@ -213,9 +213,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ## 👤 Author
 
 **Binish Mohammad Asif Gandhi**  
-📧 gandhibinish@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/binish-gandhi-42b54722b) · [GitHub](https://github.com/Binish2309/Restaurant_Review_Sentiment_Analysis)
-
+[![Email](https://img.shields.io/badge/Email-gandhibinish%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gandhibinish@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Binish%20Gandhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binish-gandhi-42b54722b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Binish2309-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Binish2309)
 ---
 
 <p align="center">⭐ Star this repo if you found it helpful!</p>
