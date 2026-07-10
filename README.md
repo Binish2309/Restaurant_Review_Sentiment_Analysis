@@ -16,15 +16,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Notebook EDA | Streamlit App |
-|:---:|:---:|
-| ![EDA](images/rating_distribution.png) | ![App](images/app_screenshot.png) |
-
-> Run the project to generate all visualisation images.
-
----
 
 ## 🎯 Objectives
 
@@ -221,9 +212,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 👤 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Binish Mohammad Asif Gandhi**  
+📧 gandhibinish@gmail.com  
+🔗 [LinkedIn](linkedin.com/in/binish-gandhi-42b54722b) · [GitHub](github.com/Binish2309/Restaurant_Review_Sentiment_Analysis)
 
 ---
 
