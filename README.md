@@ -109,7 +109,7 @@ Restaurant_Review_Sentiment_Analysis/
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/your-username/Restaurant-Review-Sentiment-Analysis.git
+git clone https://github.com/Binish2309/Restaurant-Review-Sentiment-Analysis.git
 cd Restaurant-Review-Sentiment-Analysis
 ```
 
